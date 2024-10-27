@@ -1,0 +1,176 @@
+{
+  "scrollSpeed": 0.29,
+  "animationFrames": 120,
+  "cameraMovementSpeed": 0.2,
+  "cameraRotationSensitivity": 4000,
+  "backgroundColor": "#7D7D7D",
+  "waypoints": [
+    {
+      "x": 1.9158737872562792,
+      "y": 1.215546252377102,
+      "z": 4.410765185258133,
+      "rotation": {
+        "_isDirty": true,
+        "_x": -0.004315008571729595,
+        "_y": 0.9955545873581971,
+        "_z": -0.05796339021155113,
+        "_w": -0.07411276637084703
+      },
+      "interactions": [
+        {
+          "id": "interaction-1730060180650",
+          "type": "info",
+          "data": {
+            "text": "The Ferrari Roma was introduced by the Italian car manufacturer in late 2019."
+          }
+        }
+      ],
+      "triggerDistance": 1
+    },
+    {
+      "x": 2.2137722959847443,
+      "y": 0.7344243027224736,
+      "z": 1.6518559167696782,
+      "rotation": {
+        "_isDirty": true,
+        "_x": -0.05712675016104369,
+        "_y": 0.9261317414558283,
+        "_z": -0.15629359225784173,
+        "_w": -0.33850974688948243
+      },
+      "interactions": [
+        {
+          "id": "interaction-1730060334359",
+          "type": "info",
+          "data": {
+            "text": "The exterior design was influenced by the Ferrari 250 GT Lusso and 250 GT 2+2 grand touring cars. "
+          }
+        }
+      ],
+      "triggerDistance": 1
+    },
+    {
+      "x": -1.7980393295445076,
+      "y": 0.9710537858057341,
+      "z": 2.452787045658332,
+      "rotation": {
+        "_isDirty": true,
+        "_x": 0.024811493422088344,
+        "_y": 0.9541119952690545,
+        "_z": -0.08254856441764032,
+        "_w": 0.28677593405651647
+      },
+      "interactions": [
+        {
+          "id": "interaction-1730060381356",
+          "type": "info",
+          "data": {
+            "text": "The Roma's design features include flush door handles, slim LED lights at the front and rear, and an active rear spoiler that sits flush when the car is driven softly."
+          }
+        }
+      ],
+      "triggerDistance": 1
+    },
+    {
+      "x": -2.5935250428435723,
+      "y": 0.41079662025065067,
+      "z": -1.399984044425871,
+      "rotation": {
+        "_isDirty": true,
+        "_x": -0.028113360393897644,
+        "_y": 0.5103910261516572,
+        "_z": 0.016697850268699386,
+        "_w": 0.8593205521414594
+      },
+      "interactions": [
+        {
+          "id": "interaction-1730060694172",
+          "type": "info",
+          "data": {}
+        }
+      ],
+      "triggerDistance": 1
+    },
+    {
+      "x": -2.3654964873462325,
+      "y": 0.9360532803328317,
+      "z": -1.6929979601115996,
+      "rotation": {
+        "_isDirty": true,
+        "_x": 0.11141662548902771,
+        "_y": 0.4134251528955204,
+        "_z": -0.051052704294329815,
+        "_w": 0.9022525146731548
+      },
+      "interactions": [
+        {
+          "id": "interaction-1730060449084",
+          "type": "info",
+          "data": {
+            "text": "The Roma is powered by the Ferrari type F154 engine. It is a 3.9 litres (3,855 cc), turbocharged, 90 degree V-8, dual overhead cam (DOHC) design. The Roma's type 154BH is rated at 456 kW; 612 hp (620 PS) between 5,750 and 7,500 rpm and 761 N⋅m (561 lb⋅ft) of torque between 3,000 and 5,750 rpm. "
+          }
+        }
+      ],
+      "triggerDistance": 1
+    },
+    {
+      "x": 1.2909027813621659,
+      "y": 0.6163783506428221,
+      "z": -2.74016269892382,
+      "rotation": {
+        "_isDirty": true,
+        "_x": 0.011400500961164902,
+        "_y": -0.22099227777276803,
+        "_z": 0.0025834785132588097,
+        "_w": 0.9752055086060862
+      },
+      "interactions": [
+        {
+          "id": "interaction-1730060498303",
+          "type": "info",
+          "data": {
+            "text": "The Roma was originally introduced with a base price of $218,670 (2020 USD). Typical final build-out configurations could range from $270k to $310k and up. Ferrari estimates 70 percent of buyers would be first-time Ferrari customers. They stated that the Roma is targeted squarely at the Porsche 911 and Aston Martin markets.[22] The overall design theme is \"understated elegance\" which is somewhat of a deviation from the traditional Ferrari road car. "
+          }
+        }
+      ],
+      "triggerDistance": 1
+    },
+    {
+      "x": 3.9120502375658486,
+      "y": 0.6163783505151927,
+      "z": 0.13392975492250753,
+      "rotation": {
+        "_isDirty": true,
+        "_x": 0.011891205643247141,
+        "_y": -0.69985442786013,
+        "_z": 0.011654128788274746,
+        "_w": 0.714091405020037
+      },
+      "interactions": [
+        {
+          "id": "interaction-1730060534016",
+          "type": "info",
+          "data": {
+            "text": "The Ferrari Roma was awarded a Red Dot in 2020, recognizing the car's design. Red Dot was quoted as saying, \"By renouncing all superfluous details, the design of the Ferrari Roma achieves a formal minimalism that characterizes the timeless elegance of this sports car.\""
+          }
+        }
+      ],
+      "triggerDistance": 1
+    }
+  ],
+  "loadedModelUrl": "https://storage.googleapis.com/sonnys-bucket/rubloff/gs_car.splat",
+  "hotspots": [],
+  "uiColor": "#4CAF50",
+  "transitionSpeed": 0.5,
+  "scrollButtonMode": "waypoint",
+  "scrollAmount": 10,
+  "collisionMeshesData": [],
+  "allowedCameraModes": [
+    "tour",
+    "explore",
+    "auto"
+  ],
+  "loopMode": false,
+  "autoPlayEnabled": false,
+  "autoPlaySpeed": 0.05
+}
